@@ -3,5 +3,4 @@ A very small java project (hello world) used for testing java installations on J
 Generated using:
 mvn archetype:generate -DgroupId=com.cisco.engit -DartifactId=java-smoke-test -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 Add one line.
-
-
+.
